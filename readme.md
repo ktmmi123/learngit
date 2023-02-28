@@ -4,3 +4,4 @@ uus commit kolmas päev
 neljas päev
 viies päev
 kuues päev
+seitsmes päev
