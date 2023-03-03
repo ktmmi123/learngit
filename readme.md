@@ -7,3 +7,4 @@ kuues päev
 seitsmes päev
 kaheksas päev
 üheksas päev
+kümnes päev
